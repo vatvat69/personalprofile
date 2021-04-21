@@ -21,7 +21,7 @@ Escribe una página web personal a partir de la mía, Mateo.html. Se trata de mo
 También debes modificar el archivo index.html y ahí es donde pueden surgir los problemas de interacción, cuando se fusione tu archivo index con el del proyecto inicial. Si encuentras error, has de solicitar un pull previo al push para que se admitan tus cambios. 
 Los archivos propios se aceptan sin problema, el archivo común hay que seleccionar los cambios que se van aceptar. El jefe de proyecto será quien compare y acepte. Si surge algún problema me lo consultas.
 
-
+IMPORTANTE: Al realizar un push al repositorio remoto NO PODRÁS CAMBIAR LA RAMA MASTER, has de crear otra rama y se generará un PULL_REQUEST que ya resolveré mediante MERGE, fusionando todas las ramsa al proyecto.
 
 
 
