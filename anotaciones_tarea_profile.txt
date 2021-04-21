@@ -1,0 +1,27 @@
+
+Utilizando VisualStudio (yo utilizo Codium en vez de la de Microsoft VSCode) como editor de páginas web, sigue estos pasos para crear desde plantilla. La extensión Live Server de Codium sirve para ver inmediatamente los cambios que haces en la página.
+VScodium, crear, html:5
+
+Vale cualquier otro editor de texto que resalte la sintaxis HTML o XHTML, como los de Linux o Windows. Famosos son Notepad++, Geany, Sublime text, TextWrangler, Dreamweaver, Brakets, Netbeans, Amaya, JetBrains Webstorm, Kompozer, Aptana Studio, BlueGriffon, Komodo Edit, VIM, Atom, Light Table.
+
+
+TAREA A REALIZAR
+
+Realiza checkout del repositorio "personalprofile" hacia tu disco.
+Lee README.MD
+
+Hazte una foto de carnet, llámala NIA_closeup.jpg (primer plano, de frente, cámara a la altura de los ojos, fondo totalmente blanco, cuadrada 640px).
+Hazte otra foto, más expresiva, de medio cuerpo -hasta la cintura-, llámala NIA_mediumshot.jpg de 600x800px 72ppp, 90% calidad, perfil RGB).
+
+Nota sobre la imagen institucional, esas que van a mostrar tu aspecto en una ficha personal. Esmérate en iluminar suave y uniformemente de forma frontal, viste apropiadamente, desenfoca el fondo si no es blanco, evita complementos que distraigan, ningún otro personaje. Si te piden blanco, recorta el fondo y aplica el valor RGB #FFFFFF. Para la otra imagen más desenfadada, ilumina con 3 fuentes de luz (frontal, lateral y cenital), evita los contraluces salvo que uses flash.
+
+Puedes preparar la imagen con Irfanview, incluso desde linux si has instalado correctamente Wine (que lo has debido hacer). En su defecto usa Gimp. Aunque sé que me vas a subir cualquier imagen tal cual sale de tu teléfono, cuidado que en ocasiones la orientación se pervierte y sales torcido. De ahí que pido utilizar un editor de imágenes, que respete parámetros, metadatos, facilite la autoría...
+
+Escribe una página web personal a partir de la mía, Mateo.html. Se trata de modificar los textos y llamadas a las imágenes. Si te apetece, modificas el CSS de tu página, pero eso siempre se puede hace con los datos personales ya incorporados. 
+También debes modificar el archivo index.html y ahí es donde pueden surgir los problemas de interacción, cuando se fusione tu archivo index con el del proyecto inicial. Si encuentras error, has de solicitar un pull previo al push para que se admitan tus cambios. 
+Los archivos propios se aceptan sin problema, el archivo común hay que seleccionar los cambios que se van aceptar. El jefe de proyecto será quien compare y acepte. Si surge algún problema me lo consultas.
+
+
+
+
+
