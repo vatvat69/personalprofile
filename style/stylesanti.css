@@ -3,7 +3,7 @@
     text-align: center;
     font-size: 20px;
     color: white;
-    background: url(../style/uno.jpg);
+    background: url(https://i.pinimg.com/originals/64/f1/30/64f13080215bb5d7dafdbd73b65ee4ce.jpg);
     background-color: lightblue;
     text-transform: capitalize;
 }
@@ -17,8 +17,18 @@ h1 {
     font-family: "Lucida Console", "Courier New", monospace;
 
 }
-
-p {
+a {
+    font-family: verdana;
+    font-size: 20px;
+    color: orangered;
+    text-align: left;
+}
+br {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: beige;
+    text-align: center;
+    p {
     font-family: verdana;
     font-size: 20px;
 }
