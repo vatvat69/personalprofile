@@ -1,0 +1,61 @@
+
+                     
+ body
+
+{
+    //styles applied to body tag;
+    text-align: center;
+    font-size: 20px;
+    color:white ;
+    background: url(https://img.culturacolectiva.com/content_image/2017/11/06/1510020119518/galaxia.gif)center center no-repeat;
+    background-color: lightblue;
+    text-transform: capitalize;
+    font-family: "cursive";
+    background-size:2000px 2000px;
+}
+table{
+    font-family: verdana;
+    font-size:16px;
+    color: white
+
+}
+h1 {
+    border: 10px   chartreuse;
+    color: rgb(82, 5, 47);
+    text-align: center;
+    text-decoration: overline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px  rgb(221, 233, 53);
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: chartreuse;
+}
+
+.button{
+    font-family: verdana;
+    font-size:16px;
+    color: chartreuse;
+
+}
+a{
+    font-family: verdana;
+    font-size:16px;
+    color: rgb(255, 30, 0);
+    text-decoration: underline;
+
+}
+b{
+    font-family: verdana;
+    font-size:16px;
+    color: rgb(247, 247, 247);
+
+}
+ul{ 
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+img{ 
+    text-align: left;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
