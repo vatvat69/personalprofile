@@ -1,0 +1,25 @@
+body {
+    //styles applied to body tag;
+    text-align: left
+    font-size: 20px;
+    color: black;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: rgb(131, 155, 145);
+    text-transform: capitalize;
+}
+a {
+    font-family: verdana;
+    font-size: 20px;
+    color: rgb(0, 255, 170);
+    text-align: left;
+}
+br {
+    font-family: verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: rgb(15, 233, 207);
+    text-align: left;
+    p {
+    font-family: verdana;
+    font-size: 20px;
+}
