@@ -1,0 +1,10 @@
+html {
+  text-align: center
+}
+
+body {
+  background-image: radial-gradient(#11581E, #041607);
+  font-size: 1.5rem;
+  color: rgba(128, 255, 128, 0.8);
+  text-shadow: 0 0 1ex #33ff33, 0 0 2px rgba(255, 255, 255, 0.8);
+}
